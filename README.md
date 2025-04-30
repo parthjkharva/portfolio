@@ -76,7 +76,7 @@
             text-decoration: none;
         }
         .button:hover {
-            background: #ffb74d;
+            background: #ffff;
         }
         @media (max-width: 700px) {
             .container {
